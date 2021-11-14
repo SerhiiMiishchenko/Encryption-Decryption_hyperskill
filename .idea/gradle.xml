@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Encryption-Decryption/task" />
+            <option value="$PROJECT_DIR$/Topics/Encapsulating object creation/Clock factory" />
+            <option value="$PROJECT_DIR$/Topics/Encapsulating object creation/Motor static factory" />
+            <option value="$PROJECT_DIR$/Topics/Encapsulating object creation/Static factory methods for Time" />
+            <option value="$PROJECT_DIR$/Topics/Encapsulating object creation/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Queue and Stack/Creating queue" />
+            <option value="$PROJECT_DIR$/Topics/Queue and Stack/Getting the max element of a stack" />
+            <option value="$PROJECT_DIR$/Topics/Queue and Stack/The LIFO principle in action" />
+            <option value="$PROJECT_DIR$/Topics/Queue and Stack/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Queue and Stack/Which brackets are balanced" />
+            <option value="$PROJECT_DIR$/Topics/Queue and Stack/Working with queue" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
